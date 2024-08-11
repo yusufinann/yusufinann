@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Yusuf+Inan+%e2%9c%a8;%f0%9f%93%9a+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
 <h3 align="center">A passionate Software Engineering Student at Sakarya University</h3>
 
 - 🔭 I’m currently working on [BankingApp_Identity](https://github.com/yusufinann/BankingApp_Identity)
@@ -7,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/yusufinann"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  <a href="https://linkedin.com/in/yusuf-inan-a42396266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-inan-a42396266" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yusuf-inan-a42396266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-inan-a42396266" height="30" width="40" /></a>
 </p>
 
 # 💻 Languages and Tools:
