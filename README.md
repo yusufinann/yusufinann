@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Engineering Student at Sakarya University</h3>
 
 - 🔭 I’m currently working on [CHAT-APP-MERN](https://github.com/yusufinann/CHAT-APP-MERN)
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me **iinanyusuf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
